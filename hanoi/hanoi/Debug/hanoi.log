@@ -1,0 +1,19 @@
+﻿Build started 9/13/2015 9:20:59 AM.
+     1>Project "D:\1.Embeded Engineering\Myself\My GitHud Prj\C-Hanoi\hanoi\hanoi\hanoi.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt hanoi.cpp
+         hanoi.cpp
+     1>d:\1.embeded engineering\myself\my githud prj\c-hanoi\hanoi\hanoi\hanoi.cpp(96): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>d:\1.embeded engineering\myself\my githud prj\c-hanoi\hanoi\hanoi\hanoi.cpp(100): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>d:\1.embeded engineering\myself\my githud prj\c-hanoi\hanoi\hanoi\hanoi.cpp(106): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+       Link:
+         E:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\1.Embeded Engineering\Myself\My GitHud Prj\C-Hanoi\hanoi\Debug\hanoi.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\1.Embeded Engineering\Myself\My GitHud Prj\C-Hanoi\hanoi\Debug\hanoi.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\1.Embeded Engineering\Myself\My GitHud Prj\C-Hanoi\hanoi\Debug\hanoi.lib" /MACHINE:X86 Debug\hanoi.obj
+         hanoi.vcxproj -> D:\1.Embeded Engineering\Myself\My GitHud Prj\C-Hanoi\hanoi\Debug\hanoi.exe
+     1>Done Building Project "D:\1.Embeded Engineering\Myself\My GitHud Prj\C-Hanoi\hanoi\hanoi\hanoi.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.75
